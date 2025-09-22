@@ -2,7 +2,7 @@
 - 👀 I’m interested in bioinformatics and computational biology
 - 🌱 I’m currently learning novel statistical methods with applications in the biomedical sciences
 - 💞️ I’m looking to collaborate on statistical software packages and their applications using real-world data
-- 📫 How to reach me: [iyeraditya26.github.io](https://iyeraditya26.github.io/aditya-iyer/) (personal website)
+- 📫 How to reach me: [aiyer24@g.ucla.edu](aiyer24@g.ucla.edu) (professional email)
 
 <!---
 iyeraditya26/iyeraditya26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
